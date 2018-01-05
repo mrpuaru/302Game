@@ -1,0 +1,12 @@
+Manifest-Version: 1.0
+MIDlet-Jar-Size: 227768
+MIDlet-1: Avenging Angel sefan.ru, /icon.png, a
+MIDlet-Jar-URL: Avenging_Angel_240.jar
+MIDlet-Icon: /icon.png
+Nokia-MIDlet-Category: Game
+MicroEdition-Configuration: CLDC-1.0
+MIDlet-Version: 2.00.36
+MIDlet-Name: Avenging Angel sefan.ru
+MIDlet-Vendor: Tracebit Ltd
+MicroEdition-Profile: MIDP-2.0
+KEmu-Platform: SonyEricssonK800

@@ -1,0 +1,11 @@
+MIDlet-Version: 1.0.2
+MIDlet-Icon: /icon.png
+MIDlet-Vendor: Gameloft SA
+Created-By: 1.4.2_10 (Sun Microsystems Inc.)
+MicroEdition-Configuration: CLDC-1.0
+Manifest-Version: 1.0
+MIDlet-1: Asphalt3 SEfan.RU, /icon.png, GloftASP3
+MIDlet-Name: Asphalt3 SEfan.RU
+MIDlet-Jar-URL: Asphalt3_240_5e4a32_nok.jar
+MIDlet-Jar-Size: 292551
+KEmu-Platform: SonyEricssonK800
